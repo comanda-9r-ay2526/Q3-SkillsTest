@@ -1,0 +1,19 @@
+body {
+    background-image: url(bracket.webp);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    padding: 20px;
+    margin-top: 50px;
+    width:100%;
+    max-width:1100px;
+    border: 2px solid #1010108e;
+    background-color:rgb(237, 237, 237);
+}
+
+.paymentdeta {
+    padding: 15px;
+    border: 2px solid #adbfe2;
+    background-color: rgba(189, 206, 232, 0.841);
+}
